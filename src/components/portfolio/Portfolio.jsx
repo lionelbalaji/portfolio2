@@ -27,7 +27,7 @@ const Portfolio = () => {
       image:todolistphoto,
       title:'ToDo List',
       github:'https://github.com/lionelbalaji/all_react_projects.git',
-      demo:"https://dribbble.com/alien-pixels"
+      demo:"https://lionelbalaji.github.io/Todolist/"
     }
   ]
   return (
