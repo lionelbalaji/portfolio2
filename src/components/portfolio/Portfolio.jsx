@@ -24,10 +24,10 @@ const Portfolio = () => {
       demo:"https://dribbble.com/alien-pixels"
     },{
       id:3,
-      image:todolistphoto,
+      image:todolist,
       title:'ToDo List',
       github:'https://github.com/lionelbalaji/all_react_projects.git',
-      demo:"https://lionelbalaji.github.io/Todolist/"
+      demo:" https://lionelbalaji.github.io/Todolist/"
     }
   ]
   return (
