@@ -2,7 +2,7 @@
 import React from 'react'
 import './portfolio.css'
 import portfolio1 from '../../assests/portfolio1.jpg'
-import portfolio2 from '../../assests/portfolio2.jpg'
+import beverageapp from '../../assests/beverageapp.png'
 import portfolio3 from '../../assests/portfolio3.jpg'
 import portfoliophoto from '../../assests/portfoliophoto.png'
 import todolistphoto from '../../assests/todolistphoto.png'
@@ -18,10 +18,10 @@ const Portfolio = () => {
     },
     {
       id:2,
-      image:portfolio2,
-      title:'Shopping-Cart',
-      github:'https://github.com/lionelbalaji/all_react_projects.git',
-      demo:"https://dribbble.com/alien-pixels"
+      image:beverageapp,
+      title:'responsive-beverage-app',
+      github:'https://github.com/lionelbalaji/responsive-beverage-app.git',
+      demo:"https://lionelbalaji.github.io/responsive-beverage-app/"',
     },{
       id:3,
       image:todolist,
