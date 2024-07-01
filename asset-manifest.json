@@ -1,10 +1,11 @@
 {
   "files": {
     "main.css": "/portfolio2/static/css/main.4431d4ff.css",
-    "main.js": "/portfolio2/static/js/main.412cf028.js",
+    "main.js": "/portfolio2/static/js/main.1b49e8ed.js",
     "static/media/hoodie.jpg": "/portfolio2/static/media/hoodie.fa48319721d184467ef3.jpg",
     "static/media/beverageapp.png": "/portfolio2/static/media/beverageapp.17e9ac7341c3c7b2010c.png",
     "static/media/todolistphoto.png": "/portfolio2/static/media/todolistphoto.58abdf978804d9bc632a.png",
+    "static/media/foodphoto.png": "/portfolio2/static/media/foodphoto.f8afaf3b8fd50c3900ed.png",
     "static/media/portfoliophoto.png": "/portfolio2/static/media/portfoliophoto.5ebd09eb7d04987f0291.png",
     "static/media/RESUMEBALAJI.pdf": "/portfolio2/static/media/RESUMEBALAJI.80a3ce162bd8cd7bf80c.pdf",
     "static/media/portfolio3.jpg": "/portfolio2/static/media/portfolio3.73f847e0fc0351502897.jpg",
@@ -14,10 +15,10 @@
     "static/media/myresume22.pdf": "/portfolio2/static/media/myresume22.c8da000234cac7657858.pdf",
     "index.html": "/portfolio2/index.html",
     "main.4431d4ff.css.map": "/portfolio2/static/css/main.4431d4ff.css.map",
-    "main.412cf028.js.map": "/portfolio2/static/js/main.412cf028.js.map"
+    "main.1b49e8ed.js.map": "/portfolio2/static/js/main.1b49e8ed.js.map"
   },
   "entrypoints": [
     "static/css/main.4431d4ff.css",
-    "static/js/main.412cf028.js"
+    "static/js/main.1b49e8ed.js"
   ]
 }
