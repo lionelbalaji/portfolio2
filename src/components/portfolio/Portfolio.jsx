@@ -28,6 +28,12 @@ const Portfolio = () => {
       title:'ToDo List',
       github:'https://github.com/lionelbalaji/all_react_projects.git',
       demo:" https://lionelbalaji.github.io/Todolist/"
+    },{
+      id:4,
+      image:foodphoto,
+      title:'Food-Delivery-App-Design',
+      github:'https://github.com/lionelbalaji/food-delivery-app-design.git',
+      demo:"https://lionelbalaji.github.io/food-delivery-app-design/"
     }
   ]
   return (
